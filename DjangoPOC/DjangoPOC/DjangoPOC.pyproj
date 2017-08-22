@@ -40,6 +40,16 @@
     <Compile Include="DjangoPOC\settings.py" />
     <Compile Include="DjangoPOC\urls.py" />
     <Compile Include="DjangoPOC\wsgi.py" />
+    <Compile Include="POC\admin.py" />
+    <Compile Include="POC\apps.py" />
+    <Compile Include="POC\migrations\__init__.py" />
+    <Compile Include="POC\models.py" />
+    <Compile Include="POC\tests.py" />
+    <Compile Include="POC\urls.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="POC\views.py" />
+    <Compile Include="POC\__init__.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="app\" />
@@ -52,8 +62,13 @@
     <Folder Include="app\templates\" />
     <Folder Include="app\templates\app\" />
     <Folder Include="DjangoPOC\" />
+    <Folder Include="POC\" />
+    <Folder Include="POC\migrations\" />
+    <Folder Include="POC\templates\" />
+    <Folder Include="POC\templates\POC\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="POC\templates\POC\poc_view.html" />
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />
     <Content Include="app\static\app\content\bootstrap.css" />
