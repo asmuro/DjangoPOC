@@ -2332,3 +2332,709 @@ C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Micro
 2017-08-15T19:38:53: Saving group "C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\django"
 2017-08-15T19:39:07: End of group "C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\django"
 2017-08-15T19:39:08: Deleting 0 files
+
+2017-08-29T18:02:49: Start analysis
+2017-08-29T18:02:49: [WARNING] Library was set explicitly - skipping path detection
+2017-08-29T18:02:49: IncludeModulesFromModulePath = win32com
+2017-08-29T18:02:51: Deleting 0 files
+2017-08-29T18:02:51: Scraping numpy.core.multiarray
+2017-08-29T18:02:51: Command: C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape numpy.core.multiarray C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\.ptvs\numpy\numpy.core.multiarray
+2017-08-29T18:02:51: Scraping numpy.core.multiarray_tests
+2017-08-29T18:02:51: Command: C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape numpy.core.multiarray_tests C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\.ptvs\numpy\numpy.core.multiarray_tests
+2017-08-29T18:02:52: Scraping numpy.core.operand_flag_tests
+2017-08-29T18:02:52: Command: C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape numpy.core.operand_flag_tests C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\.ptvs\numpy\numpy.core.operand_flag_tests
+2017-08-29T18:02:52: Scraping numpy.core.struct_ufunc_test
+2017-08-29T18:02:52: Command: C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape numpy.core.struct_ufunc_test C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\.ptvs\numpy\numpy.core.struct_ufunc_test
+2017-08-29T18:02:53: Scraping numpy.core.test_rational
+2017-08-29T18:02:53: Command: C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape numpy.core.test_rational C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\.ptvs\numpy\numpy.core.test_rational
+2017-08-29T18:02:53: Scraping numpy.core.umath
+2017-08-29T18:02:53: Command: C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape numpy.core.umath C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\.ptvs\numpy\numpy.core.umath
+2017-08-29T18:02:53: Scraping numpy.core.umath_tests
+2017-08-29T18:02:53: Command: C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape numpy.core.umath_tests C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\.ptvs\numpy\numpy.core.umath_tests
+2017-08-29T18:02:54: Scraping numpy.core._dummy
+2017-08-29T18:02:54: Command: C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape numpy.core._dummy C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\.ptvs\numpy\numpy.core._dummy
+2017-08-29T18:02:54: Scraping numpy.fft.fftpack_lite
+2017-08-29T18:02:54: Command: C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape numpy.fft.fftpack_lite C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\.ptvs\numpy\numpy.fft.fftpack_lite
+2017-08-29T18:02:54: Scraping numpy.linalg.lapack_lite
+2017-08-29T18:02:54: Command: C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape numpy.linalg.lapack_lite C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\.ptvs\numpy\numpy.linalg.lapack_lite
+2017-08-29T18:02:54: Scraping numpy.linalg._umath_linalg
+2017-08-29T18:02:54: Command: C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape numpy.linalg._umath_linalg C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\.ptvs\numpy\numpy.linalg._umath_linalg
+2017-08-29T18:02:55: Scraping numpy.random.mtrand
+2017-08-29T18:02:55: Command: C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape numpy.random.mtrand C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\.ptvs\numpy\numpy.random.mtrand
+2017-08-29T18:02:55: Scraped 12 files
+2017-08-29T18:02:55: astropy.CallDepth = 0
+2017-08-29T18:02:55: matplotlib.CallDepth = 3
+2017-08-29T18:02:55: pandas.CallDepth = 0
+2017-08-29T18:02:55: sympy.CallDepth = 0
+2017-08-29T18:02:55: Start group "C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy" with 311 files
+2017-08-29T18:02:55: Parsing "numpy.add_newdocs" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\add_newdocs.py")
+2017-08-29T18:02:55: Parsing "numpy.ctypeslib" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\ctypeslib.py")
+2017-08-29T18:02:55: Parsing "numpy.dual" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\dual.py")
+2017-08-29T18:02:55: Parsing "numpy.matlib" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\matlib.py")
+2017-08-29T18:02:55: Parsing "numpy.setup" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\setup.py")
+2017-08-29T18:02:55: Parsing "numpy.version" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\version.py")
+2017-08-29T18:02:55: Parsing "numpy._distributor_init" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\_distributor_init.py")
+2017-08-29T18:02:55: Parsing "numpy._globals" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\_globals.py")
+2017-08-29T18:02:55: Parsing "numpy._import_tools" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\_import_tools.py")
+2017-08-29T18:02:55: Parsing "numpy.__config__" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\__config__.py")
+2017-08-29T18:02:55: Parsing "numpy" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\__init__.py")
+2017-08-29T18:02:55: Parsing "numpy.compat.py3k" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\compat\py3k.py")
+2017-08-29T18:02:55: Parsing "numpy.compat.setup" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\compat\setup.py")
+2017-08-29T18:02:55: Parsing "numpy.compat._inspect" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\compat\_inspect.py")
+2017-08-29T18:02:55: Parsing "numpy.compat" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\compat\__init__.py")
+2017-08-29T18:02:55: Parsing "numpy.core.arrayprint" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\arrayprint.py")
+2017-08-29T18:02:55: Parsing "numpy.core.cversions" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\cversions.py")
+2017-08-29T18:02:55: Parsing "numpy.core.defchararray" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\defchararray.py")
+2017-08-29T18:02:55: Parsing "numpy.core.einsumfunc" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\einsumfunc.py")
+2017-08-29T18:02:55: Parsing "numpy.core.fromnumeric" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\fromnumeric.py")
+2017-08-29T18:02:55: Parsing "numpy.core.function_base" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\function_base.py")
+2017-08-29T18:02:55: Parsing "numpy.core.generate_numpy_api" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\generate_numpy_api.py")
+2017-08-29T18:02:55: Parsing "numpy.core.getlimits" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\getlimits.py")
+2017-08-29T18:02:55: Parsing "numpy.core.info" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\info.py")
+2017-08-29T18:02:55: Parsing "numpy.core.machar" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\machar.py")
+2017-08-29T18:02:55: Parsing "numpy.core.memmap" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\memmap.py")
+2017-08-29T18:02:55: Parsing "numpy.core.numeric" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\numeric.py")
+2017-08-29T18:02:55: Parsing "numpy.core.numerictypes" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\numerictypes.py")
+2017-08-29T18:02:55: Parsing "numpy.core.records" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\records.py")
+2017-08-29T18:02:55: Parsing "numpy.core.setup" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\setup.py")
+2017-08-29T18:02:55: Parsing "numpy.core.setup_common" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\setup_common.py")
+2017-08-29T18:02:55: Parsing "numpy.core.shape_base" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\shape_base.py")
+2017-08-29T18:02:55: Parsing "numpy.core._internal" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\_internal.py")
+2017-08-29T18:02:55: Parsing "numpy.core._methods" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\_methods.py")
+2017-08-29T18:02:55: Parsing "numpy.core" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\__init__.py")
+2017-08-29T18:02:55: Parsing "numpy.core.tests.test_abc" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_abc.py")
+2017-08-29T18:02:55: Parsing "numpy.core.tests.test_api" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_api.py")
+2017-08-29T18:02:55: Parsing "numpy.core.tests.test_arrayprint" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_arrayprint.py")
+2017-08-29T18:02:55: Parsing "numpy.core.tests.test_datetime" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_datetime.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_defchararray" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_defchararray.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_deprecations" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_deprecations.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_dtype" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_dtype.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_einsum" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_einsum.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_errstate" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_errstate.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_extint128" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_extint128.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_function_base" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_function_base.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_getlimits" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_getlimits.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_half" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_half.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_indexerrors" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_indexerrors.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_indexing" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_indexing.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_item_selection" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_item_selection.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_longdouble" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_longdouble.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_machar" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_machar.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_memmap" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_memmap.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_mem_overlap" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_mem_overlap.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_multiarray" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_multiarray.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_nditer" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_nditer.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_numeric" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_numeric.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_numerictypes" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_numerictypes.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_print" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_print.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_records" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_records.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_regression" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_regression.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_scalarinherit" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_scalarinherit.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_scalarmath" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_scalarmath.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_scalarprint" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_scalarprint.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_shape_base" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_shape_base.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_ufunc" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_ufunc.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_umath" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_umath.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_umath_complex" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_umath_complex.py")
+2017-08-29T18:02:56: Parsing "numpy.core.tests.test_unicode" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\core\tests\test_unicode.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.ccompiler" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\ccompiler.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.compat" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\compat.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.conv_template" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\conv_template.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.core" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\core.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.cpuinfo" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\cpuinfo.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.environment" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\environment.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.exec_command" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\exec_command.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.extension" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\extension.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.from_template" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\from_template.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.info" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\info.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.intelccompiler" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\intelccompiler.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.lib2def" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\lib2def.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.line_endings" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\line_endings.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.log" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\log.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.mingw32ccompiler" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\mingw32ccompiler.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.misc_util" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\misc_util.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.msvc9compiler" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\msvc9compiler.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.msvccompiler" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\msvccompiler.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.npy_pkg_config" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\npy_pkg_config.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.numpy_distribution" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\numpy_distribution.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.pathccompiler" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\pathccompiler.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.setup" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\setup.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.system_info" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\system_info.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.unixccompiler" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\unixccompiler.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.__config__" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\__config__.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\__init__.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.__version__" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\__version__.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.command.autodist" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\command\autodist.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.command.bdist_rpm" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\command\bdist_rpm.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.command.build" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\command\build.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.command.build_clib" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\command\build_clib.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.command.build_ext" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\command\build_ext.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.command.build_py" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\command\build_py.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.command.build_scripts" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\command\build_scripts.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.command.build_src" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\command\build_src.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.command.config" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\command\config.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.command.config_compiler" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\command\config_compiler.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.command.develop" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\command\develop.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.command.egg_info" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\command\egg_info.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.command.install" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\command\install.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.command.install_clib" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\command\install_clib.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.command.install_data" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\command\install_data.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.command.install_headers" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\command\install_headers.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.command.sdist" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\command\sdist.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.command" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\command\__init__.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.fcompiler.absoft" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\fcompiler\absoft.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.fcompiler.compaq" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\fcompiler\compaq.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.fcompiler.g95" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\fcompiler\g95.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.fcompiler.gnu" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\fcompiler\gnu.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.fcompiler.hpux" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\fcompiler\hpux.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.fcompiler.ibm" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\fcompiler\ibm.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.fcompiler.intel" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\fcompiler\intel.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.fcompiler.lahey" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\fcompiler\lahey.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.fcompiler.mips" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\fcompiler\mips.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.fcompiler.nag" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\fcompiler\nag.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.fcompiler.none" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\fcompiler\none.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.fcompiler.pathf95" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\fcompiler\pathf95.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.fcompiler.pg" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\fcompiler\pg.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.fcompiler.sun" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\fcompiler\sun.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.fcompiler.vast" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\fcompiler\vast.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.fcompiler" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\fcompiler\__init__.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.tests.test_exec_command" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\tests\test_exec_command.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.tests.test_fcompiler_gnu" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\tests\test_fcompiler_gnu.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.tests.test_fcompiler_intel" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\tests\test_fcompiler_intel.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.tests.test_misc_util" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\tests\test_misc_util.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.tests.test_npy_pkg_config" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\tests\test_npy_pkg_config.py")
+2017-08-29T18:02:56: Parsing "numpy.distutils.tests.test_system_info" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\distutils\tests\test_system_info.py")
+2017-08-29T18:02:56: Parsing "numpy.doc.basics" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\doc\basics.py")
+2017-08-29T18:02:56: Parsing "numpy.doc.broadcasting" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\doc\broadcasting.py")
+2017-08-29T18:02:56: Parsing "numpy.doc.byteswapping" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\doc\byteswapping.py")
+2017-08-29T18:02:56: Parsing "numpy.doc.constants" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\doc\constants.py")
+2017-08-29T18:02:56: Parsing "numpy.doc.creation" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\doc\creation.py")
+2017-08-29T18:02:56: Parsing "numpy.doc.glossary" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\doc\glossary.py")
+2017-08-29T18:02:56: Parsing "numpy.doc.indexing" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\doc\indexing.py")
+2017-08-29T18:02:56: Parsing "numpy.doc.internals" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\doc\internals.py")
+2017-08-29T18:02:56: Parsing "numpy.doc.misc" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\doc\misc.py")
+2017-08-29T18:02:56: Parsing "numpy.doc.structured_arrays" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\doc\structured_arrays.py")
+2017-08-29T18:02:56: Parsing "numpy.doc.subclassing" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\doc\subclassing.py")
+2017-08-29T18:02:56: Parsing "numpy.doc.ufuncs" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\doc\ufuncs.py")
+2017-08-29T18:02:56: Parsing "numpy.doc" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\doc\__init__.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.auxfuncs" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\auxfuncs.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.capi_maps" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\capi_maps.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.cb_rules" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\cb_rules.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.cfuncs" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\cfuncs.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.common_rules" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\common_rules.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.crackfortran" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\crackfortran.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.diagnose" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\diagnose.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.f2py2e" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\f2py2e.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.f2py_testing" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\f2py_testing.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.f90mod_rules" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\f90mod_rules.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.func2subr" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\func2subr.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.info" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\info.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.rules" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\rules.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.setup" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\setup.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.use_rules" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\use_rules.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\__init__.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.__main__" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\__main__.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.__version__" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\__version__.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.tests.test_array_from_pyobj" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\tests\test_array_from_pyobj.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.tests.test_assumed_shape" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\tests\test_assumed_shape.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.tests.test_callback" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\tests\test_callback.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.tests.test_common" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\tests\test_common.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.tests.test_kind" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\tests\test_kind.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.tests.test_mixed" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\tests\test_mixed.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.tests.test_parameter" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\tests\test_parameter.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.tests.test_regression" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\tests\test_regression.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.tests.test_return_character" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\tests\test_return_character.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.tests.test_return_complex" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\tests\test_return_complex.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.tests.test_return_integer" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\tests\test_return_integer.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.tests.test_return_logical" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\tests\test_return_logical.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.tests.test_return_real" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\tests\test_return_real.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.tests.test_size" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\tests\test_size.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.tests.test_string" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\tests\test_string.py")
+2017-08-29T18:02:56: Parsing "numpy.f2py.tests.util" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\f2py\tests\util.py")
+2017-08-29T18:02:56: Parsing "numpy.fft.fftpack" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\fft\fftpack.py")
+2017-08-29T18:02:56: Parsing "numpy.fft.helper" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\fft\helper.py")
+2017-08-29T18:02:56: Parsing "numpy.fft.info" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\fft\info.py")
+2017-08-29T18:02:56: Parsing "numpy.fft.setup" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\fft\setup.py")
+2017-08-29T18:02:56: Parsing "numpy.fft" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\fft\__init__.py")
+2017-08-29T18:02:56: Parsing "numpy.fft.tests.test_fftpack" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\fft\tests\test_fftpack.py")
+2017-08-29T18:02:56: Parsing "numpy.fft.tests.test_helper" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\fft\tests\test_helper.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.arraypad" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\arraypad.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.arraysetops" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\arraysetops.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.arrayterator" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\arrayterator.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.financial" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\financial.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.format" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\format.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.function_base" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\function_base.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.index_tricks" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\index_tricks.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.info" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\info.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.mixins" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\mixins.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.nanfunctions" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\nanfunctions.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.npyio" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\npyio.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.polynomial" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\polynomial.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.recfunctions" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\recfunctions.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.scimath" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\scimath.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.setup" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\setup.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.shape_base" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\shape_base.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.stride_tricks" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\stride_tricks.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.twodim_base" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\twodim_base.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.type_check" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\type_check.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.ufunclike" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\ufunclike.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.user_array" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\user_array.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.utils" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\utils.py")
+2017-08-29T18:02:56: Parsing "numpy.lib._datasource" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\_datasource.py")
+2017-08-29T18:02:56: Parsing "numpy.lib._iotools" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\_iotools.py")
+2017-08-29T18:02:56: Parsing "numpy.lib._version" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\_version.py")
+2017-08-29T18:02:56: Parsing "numpy.lib" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\__init__.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test_arraypad" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test_arraypad.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test_arraysetops" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test_arraysetops.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test_arrayterator" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test_arrayterator.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test_financial" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test_financial.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test_format" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test_format.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test_function_base" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test_function_base.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test_index_tricks" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test_index_tricks.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test_io" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test_io.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test_mixins" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test_mixins.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test_nanfunctions" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test_nanfunctions.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test_packbits" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test_packbits.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test_polynomial" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test_polynomial.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test_recfunctions" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test_recfunctions.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test_regression" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test_regression.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test_shape_base" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test_shape_base.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test_stride_tricks" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test_stride_tricks.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test_twodim_base" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test_twodim_base.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test_type_check" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test_type_check.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test_ufunclike" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test_ufunclike.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test_utils" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test_utils.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test__datasource" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test__datasource.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test__iotools" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test__iotools.py")
+2017-08-29T18:02:56: Parsing "numpy.lib.tests.test__version" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\lib\tests\test__version.py")
+2017-08-29T18:02:56: Parsing "numpy.linalg.info" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\linalg\info.py")
+2017-08-29T18:02:56: Parsing "numpy.linalg.linalg" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\linalg\linalg.py")
+2017-08-29T18:02:56: Parsing "numpy.linalg.setup" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\linalg\setup.py")
+2017-08-29T18:02:56: Parsing "numpy.linalg" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\linalg\__init__.py")
+2017-08-29T18:02:56: Parsing "numpy.linalg.tests.test_build" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\linalg\tests\test_build.py")
+2017-08-29T18:02:56: Parsing "numpy.linalg.tests.test_deprecations" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\linalg\tests\test_deprecations.py")
+2017-08-29T18:02:56: Parsing "numpy.linalg.tests.test_linalg" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\linalg\tests\test_linalg.py")
+2017-08-29T18:02:56: Parsing "numpy.linalg.tests.test_regression" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\linalg\tests\test_regression.py")
+2017-08-29T18:02:56: Parsing "numpy.ma.bench" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\ma\bench.py")
+2017-08-29T18:02:56: Parsing "numpy.ma.core" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\ma\core.py")
+2017-08-29T18:02:56: Parsing "numpy.ma.extras" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\ma\extras.py")
+2017-08-29T18:02:56: Parsing "numpy.ma.mrecords" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\ma\mrecords.py")
+2017-08-29T18:02:56: Parsing "numpy.ma.setup" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\ma\setup.py")
+2017-08-29T18:02:56: Parsing "numpy.ma.testutils" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\ma\testutils.py")
+2017-08-29T18:02:56: Parsing "numpy.ma.timer_comparison" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\ma\timer_comparison.py")
+2017-08-29T18:02:56: Parsing "numpy.ma.version" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\ma\version.py")
+2017-08-29T18:02:56: Parsing "numpy.ma" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\ma\__init__.py")
+2017-08-29T18:02:56: Parsing "numpy.ma.tests.test_core" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\ma\tests\test_core.py")
+2017-08-29T18:02:56: Parsing "numpy.ma.tests.test_deprecations" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\ma\tests\test_deprecations.py")
+2017-08-29T18:02:56: Parsing "numpy.ma.tests.test_extras" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\ma\tests\test_extras.py")
+2017-08-29T18:02:56: Parsing "numpy.ma.tests.test_mrecords" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\ma\tests\test_mrecords.py")
+2017-08-29T18:02:56: Parsing "numpy.ma.tests.test_old_ma" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\ma\tests\test_old_ma.py")
+2017-08-29T18:02:57: Parsing "numpy.ma.tests.test_regression" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\ma\tests\test_regression.py")
+2017-08-29T18:02:57: Parsing "numpy.ma.tests.test_subclassing" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\ma\tests\test_subclassing.py")
+2017-08-29T18:02:57: Parsing "numpy.matrixlib.defmatrix" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\matrixlib\defmatrix.py")
+2017-08-29T18:02:57: Parsing "numpy.matrixlib.setup" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\matrixlib\setup.py")
+2017-08-29T18:02:57: Parsing "numpy.matrixlib" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\matrixlib\__init__.py")
+2017-08-29T18:02:57: Parsing "numpy.matrixlib.tests.test_defmatrix" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\matrixlib\tests\test_defmatrix.py")
+2017-08-29T18:02:57: Parsing "numpy.matrixlib.tests.test_multiarray" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\matrixlib\tests\test_multiarray.py")
+2017-08-29T18:02:57: Parsing "numpy.matrixlib.tests.test_numeric" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\matrixlib\tests\test_numeric.py")
+2017-08-29T18:02:57: Parsing "numpy.matrixlib.tests.test_regression" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\matrixlib\tests\test_regression.py")
+2017-08-29T18:02:57: Parsing "numpy.polynomial.chebyshev" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\polynomial\chebyshev.py")
+2017-08-29T18:02:57: Parsing "numpy.polynomial.hermite" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\polynomial\hermite.py")
+2017-08-29T18:02:57: Parsing "numpy.polynomial.hermite_e" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\polynomial\hermite_e.py")
+2017-08-29T18:02:57: Parsing "numpy.polynomial.laguerre" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\polynomial\laguerre.py")
+2017-08-29T18:02:57: Parsing "numpy.polynomial.legendre" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\polynomial\legendre.py")
+2017-08-29T18:02:57: Parsing "numpy.polynomial.polynomial" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\polynomial\polynomial.py")
+2017-08-29T18:02:57: Parsing "numpy.polynomial.polyutils" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\polynomial\polyutils.py")
+2017-08-29T18:02:57: Parsing "numpy.polynomial.setup" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\polynomial\setup.py")
+2017-08-29T18:02:57: Parsing "numpy.polynomial._polybase" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\polynomial\_polybase.py")
+2017-08-29T18:02:57: Parsing "numpy.polynomial" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\polynomial\__init__.py")
+2017-08-29T18:02:57: Parsing "numpy.polynomial.tests.test_chebyshev" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\polynomial\tests\test_chebyshev.py")
+2017-08-29T18:02:57: Parsing "numpy.polynomial.tests.test_classes" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\polynomial\tests\test_classes.py")
+2017-08-29T18:02:57: Parsing "numpy.polynomial.tests.test_hermite" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\polynomial\tests\test_hermite.py")
+2017-08-29T18:02:57: Parsing "numpy.polynomial.tests.test_hermite_e" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\polynomial\tests\test_hermite_e.py")
+2017-08-29T18:02:57: Parsing "numpy.polynomial.tests.test_laguerre" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\polynomial\tests\test_laguerre.py")
+2017-08-29T18:02:57: Parsing "numpy.polynomial.tests.test_legendre" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\polynomial\tests\test_legendre.py")
+2017-08-29T18:02:57: Parsing "numpy.polynomial.tests.test_polynomial" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\polynomial\tests\test_polynomial.py")
+2017-08-29T18:02:57: Parsing "numpy.polynomial.tests.test_polyutils" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\polynomial\tests\test_polyutils.py")
+2017-08-29T18:02:57: Parsing "numpy.polynomial.tests.test_printing" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\polynomial\tests\test_printing.py")
+2017-08-29T18:02:57: Parsing "numpy.random.info" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\random\info.py")
+2017-08-29T18:02:57: Parsing "numpy.random.setup" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\random\setup.py")
+2017-08-29T18:02:57: Parsing "numpy.random" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\random\__init__.py")
+2017-08-29T18:02:57: Parsing "numpy.random.tests.test_random" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\random\tests\test_random.py")
+2017-08-29T18:02:57: Parsing "numpy.random.tests.test_regression" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\random\tests\test_regression.py")
+2017-08-29T18:02:57: Parsing "numpy.testing.decorators" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\testing\decorators.py")
+2017-08-29T18:02:57: Parsing "numpy.testing.noseclasses" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\testing\noseclasses.py")
+2017-08-29T18:02:57: Parsing "numpy.testing.nosetester" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\testing\nosetester.py")
+2017-08-29T18:02:57: Parsing "numpy.testing.print_coercion_tables" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\testing\print_coercion_tables.py")
+2017-08-29T18:02:57: Parsing "numpy.testing.setup" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\testing\setup.py")
+2017-08-29T18:02:57: Parsing "numpy.testing.utils" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\testing\utils.py")
+2017-08-29T18:02:57: Parsing "numpy.testing" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\testing\__init__.py")
+2017-08-29T18:02:57: Parsing "numpy.testing.tests.test_decorators" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\testing\tests\test_decorators.py")
+2017-08-29T18:02:57: Parsing "numpy.testing.tests.test_doctesting" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\testing\tests\test_doctesting.py")
+2017-08-29T18:02:57: Parsing "numpy.testing.tests.test_utils" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\testing\tests\test_utils.py")
+2017-08-29T18:02:57: Parsing "numpy.tests.test_ctypeslib" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\tests\test_ctypeslib.py")
+2017-08-29T18:02:57: Parsing "numpy.tests.test_matlib" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\tests\test_matlib.py")
+2017-08-29T18:02:57: Parsing "numpy.tests.test_numpy_version" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\tests\test_numpy_version.py")
+2017-08-29T18:02:57: Parsing "numpy.tests.test_reloading" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\tests\test_reloading.py")
+2017-08-29T18:02:57: Parsing "numpy.tests.test_scripts" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\tests\test_scripts.py")
+2017-08-29T18:02:57: Parsing "numpy.tests.test_warnings" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy\tests\test_warnings.py")
+2017-08-29T18:02:57: Parsing complete
+2017-08-29T18:02:57: Analyzing "numpy.add_newdocs"
+2017-08-29T18:02:57: Analyzing "numpy.ctypeslib"
+2017-08-29T18:02:57: Analyzing "numpy.dual"
+2017-08-29T18:02:57: Analyzing "numpy.matlib"
+2017-08-29T18:02:57: Analyzing "numpy.setup"
+2017-08-29T18:02:57: Analyzing "numpy.version"
+2017-08-29T18:02:57: Analyzing "numpy._distributor_init"
+2017-08-29T18:02:57: Analyzing "numpy._globals"
+2017-08-29T18:02:57: Analyzing "numpy._import_tools"
+2017-08-29T18:02:57: Analyzing "numpy.__config__"
+2017-08-29T18:02:57: Analyzing "numpy"
+2017-08-29T18:02:57: Analyzing "numpy.compat.py3k"
+2017-08-29T18:02:57: Analyzing "numpy.compat.setup"
+2017-08-29T18:02:57: Analyzing "numpy.compat._inspect"
+2017-08-29T18:02:57: Analyzing "numpy.compat"
+2017-08-29T18:02:57: Analyzing "numpy.core.arrayprint"
+2017-08-29T18:02:57: Analyzing "numpy.core.cversions"
+2017-08-29T18:02:57: Analyzing "numpy.core.defchararray"
+2017-08-29T18:02:57: Analyzing "numpy.core.einsumfunc"
+2017-08-29T18:02:57: Analyzing "numpy.core.fromnumeric"
+2017-08-29T18:02:57: Analyzing "numpy.core.function_base"
+2017-08-29T18:02:57: Analyzing "numpy.core.generate_numpy_api"
+2017-08-29T18:02:57: Analyzing "numpy.core.getlimits"
+2017-08-29T18:02:57: Analyzing "numpy.core.info"
+2017-08-29T18:02:57: Analyzing "numpy.core.machar"
+2017-08-29T18:02:57: Analyzing "numpy.core.memmap"
+2017-08-29T18:02:57: Analyzing "numpy.core.numeric"
+2017-08-29T18:02:57: Analyzing "numpy.core.numerictypes"
+2017-08-29T18:02:57: Analyzing "numpy.core.records"
+2017-08-29T18:02:57: Analyzing "numpy.core.setup"
+2017-08-29T18:02:57: Analyzing "numpy.core.setup_common"
+2017-08-29T18:02:57: Analyzing "numpy.core.shape_base"
+2017-08-29T18:02:57: Analyzing "numpy.core._internal"
+2017-08-29T18:02:57: Analyzing "numpy.core._methods"
+2017-08-29T18:02:57: Analyzing "numpy.core"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_abc"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_api"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_arrayprint"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_datetime"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_defchararray"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_deprecations"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_dtype"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_einsum"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_errstate"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_extint128"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_function_base"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_getlimits"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_half"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_indexerrors"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_indexing"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_item_selection"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_longdouble"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_machar"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_memmap"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_mem_overlap"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_multiarray"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_nditer"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_numeric"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_numerictypes"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_print"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_records"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_regression"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_scalarinherit"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_scalarmath"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_scalarprint"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_shape_base"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_ufunc"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_umath"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_umath_complex"
+2017-08-29T18:02:57: Analyzing "numpy.core.tests.test_unicode"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.ccompiler"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.compat"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.conv_template"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.core"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.cpuinfo"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.environment"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.exec_command"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.extension"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.from_template"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.info"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.intelccompiler"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.lib2def"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.line_endings"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.log"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.mingw32ccompiler"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.misc_util"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.msvc9compiler"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.msvccompiler"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.npy_pkg_config"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.numpy_distribution"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.pathccompiler"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.setup"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.system_info"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.unixccompiler"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.__config__"
+2017-08-29T18:02:57: Analyzing "numpy.distutils"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.__version__"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.command.autodist"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.command.bdist_rpm"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.command.build"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.command.build_clib"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.command.build_ext"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.command.build_py"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.command.build_scripts"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.command.build_src"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.command.config"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.command.config_compiler"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.command.develop"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.command.egg_info"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.command.install"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.command.install_clib"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.command.install_data"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.command.install_headers"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.command.sdist"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.command"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.fcompiler.absoft"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.fcompiler.compaq"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.fcompiler.g95"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.fcompiler.gnu"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.fcompiler.hpux"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.fcompiler.ibm"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.fcompiler.intel"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.fcompiler.lahey"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.fcompiler.mips"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.fcompiler.nag"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.fcompiler.none"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.fcompiler.pathf95"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.fcompiler.pg"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.fcompiler.sun"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.fcompiler.vast"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.fcompiler"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.tests.test_exec_command"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.tests.test_fcompiler_gnu"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.tests.test_fcompiler_intel"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.tests.test_misc_util"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.tests.test_npy_pkg_config"
+2017-08-29T18:02:57: Analyzing "numpy.distutils.tests.test_system_info"
+2017-08-29T18:02:57: Analyzing "numpy.doc.basics"
+2017-08-29T18:02:57: Analyzing "numpy.doc.broadcasting"
+2017-08-29T18:02:57: Analyzing "numpy.doc.byteswapping"
+2017-08-29T18:02:57: Analyzing "numpy.doc.constants"
+2017-08-29T18:02:57: Analyzing "numpy.doc.creation"
+2017-08-29T18:02:57: Analyzing "numpy.doc.glossary"
+2017-08-29T18:02:57: Analyzing "numpy.doc.indexing"
+2017-08-29T18:02:57: Analyzing "numpy.doc.internals"
+2017-08-29T18:02:57: Analyzing "numpy.doc.misc"
+2017-08-29T18:02:57: Analyzing "numpy.doc.structured_arrays"
+2017-08-29T18:02:57: Analyzing "numpy.doc.subclassing"
+2017-08-29T18:02:57: Analyzing "numpy.doc.ufuncs"
+2017-08-29T18:02:57: Analyzing "numpy.doc"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.auxfuncs"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.capi_maps"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.cb_rules"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.cfuncs"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.common_rules"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.crackfortran"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.diagnose"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.f2py2e"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.f2py_testing"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.f90mod_rules"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.func2subr"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.info"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.rules"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.setup"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.use_rules"
+2017-08-29T18:02:57: Analyzing "numpy.f2py"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.__main__"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.__version__"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.tests.test_array_from_pyobj"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.tests.test_assumed_shape"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.tests.test_callback"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.tests.test_common"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.tests.test_kind"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.tests.test_mixed"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.tests.test_parameter"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.tests.test_regression"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.tests.test_return_character"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.tests.test_return_complex"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.tests.test_return_integer"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.tests.test_return_logical"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.tests.test_return_real"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.tests.test_size"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.tests.test_string"
+2017-08-29T18:02:57: Analyzing "numpy.f2py.tests.util"
+2017-08-29T18:02:57: Analyzing "numpy.fft.fftpack"
+2017-08-29T18:02:57: Analyzing "numpy.fft.helper"
+2017-08-29T18:02:57: Analyzing "numpy.fft.info"
+2017-08-29T18:02:57: Analyzing "numpy.fft.setup"
+2017-08-29T18:02:57: Analyzing "numpy.fft"
+2017-08-29T18:02:57: Analyzing "numpy.fft.tests.test_fftpack"
+2017-08-29T18:02:57: Analyzing "numpy.fft.tests.test_helper"
+2017-08-29T18:02:57: Analyzing "numpy.lib.arraypad"
+2017-08-29T18:02:57: Analyzing "numpy.lib.arraysetops"
+2017-08-29T18:02:57: Analyzing "numpy.lib.arrayterator"
+2017-08-29T18:02:57: Analyzing "numpy.lib.financial"
+2017-08-29T18:02:57: Analyzing "numpy.lib.format"
+2017-08-29T18:02:57: Analyzing "numpy.lib.function_base"
+2017-08-29T18:02:57: Analyzing "numpy.lib.index_tricks"
+2017-08-29T18:02:57: Analyzing "numpy.lib.info"
+2017-08-29T18:02:57: Analyzing "numpy.lib.mixins"
+2017-08-29T18:02:57: Analyzing "numpy.lib.nanfunctions"
+2017-08-29T18:02:57: Analyzing "numpy.lib.npyio"
+2017-08-29T18:02:57: Analyzing "numpy.lib.polynomial"
+2017-08-29T18:02:57: Analyzing "numpy.lib.recfunctions"
+2017-08-29T18:02:57: Analyzing "numpy.lib.scimath"
+2017-08-29T18:02:57: Analyzing "numpy.lib.setup"
+2017-08-29T18:02:57: Analyzing "numpy.lib.shape_base"
+2017-08-29T18:02:57: Analyzing "numpy.lib.stride_tricks"
+2017-08-29T18:02:57: Analyzing "numpy.lib.twodim_base"
+2017-08-29T18:02:57: Analyzing "numpy.lib.type_check"
+2017-08-29T18:02:57: Analyzing "numpy.lib.ufunclike"
+2017-08-29T18:02:57: Analyzing "numpy.lib.user_array"
+2017-08-29T18:02:57: Analyzing "numpy.lib.utils"
+2017-08-29T18:02:57: Analyzing "numpy.lib._datasource"
+2017-08-29T18:02:57: Analyzing "numpy.lib._iotools"
+2017-08-29T18:02:57: Analyzing "numpy.lib._version"
+2017-08-29T18:02:57: Analyzing "numpy.lib"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test_arraypad"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test_arraysetops"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test_arrayterator"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test_financial"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test_format"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test_function_base"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test_index_tricks"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test_io"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test_mixins"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test_nanfunctions"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test_packbits"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test_polynomial"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test_recfunctions"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test_regression"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test_shape_base"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test_stride_tricks"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test_twodim_base"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test_type_check"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test_ufunclike"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test_utils"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test__datasource"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test__iotools"
+2017-08-29T18:02:57: Analyzing "numpy.lib.tests.test__version"
+2017-08-29T18:02:57: Analyzing "numpy.linalg.info"
+2017-08-29T18:02:57: Analyzing "numpy.linalg.linalg"
+2017-08-29T18:02:57: Analyzing "numpy.linalg.setup"
+2017-08-29T18:02:57: Analyzing "numpy.linalg"
+2017-08-29T18:02:57: Analyzing "numpy.linalg.tests.test_build"
+2017-08-29T18:02:57: Analyzing "numpy.linalg.tests.test_deprecations"
+2017-08-29T18:02:57: Analyzing "numpy.linalg.tests.test_linalg"
+2017-08-29T18:02:57: Analyzing "numpy.linalg.tests.test_regression"
+2017-08-29T18:02:57: Analyzing "numpy.ma.bench"
+2017-08-29T18:02:57: Analyzing "numpy.ma.core"
+2017-08-29T18:02:57: Analyzing "numpy.ma.extras"
+2017-08-29T18:02:57: Analyzing "numpy.ma.mrecords"
+2017-08-29T18:02:57: Analyzing "numpy.ma.setup"
+2017-08-29T18:02:57: Analyzing "numpy.ma.testutils"
+2017-08-29T18:02:57: Analyzing "numpy.ma.timer_comparison"
+2017-08-29T18:02:57: Analyzing "numpy.ma.version"
+2017-08-29T18:02:57: Analyzing "numpy.ma"
+2017-08-29T18:02:57: Analyzing "numpy.ma.tests.test_core"
+2017-08-29T18:02:57: Analyzing "numpy.ma.tests.test_deprecations"
+2017-08-29T18:02:57: Analyzing "numpy.ma.tests.test_extras"
+2017-08-29T18:02:57: Analyzing "numpy.ma.tests.test_mrecords"
+2017-08-29T18:02:57: Analyzing "numpy.ma.tests.test_old_ma"
+2017-08-29T18:02:57: Analyzing "numpy.ma.tests.test_regression"
+2017-08-29T18:02:57: Analyzing "numpy.ma.tests.test_subclassing"
+2017-08-29T18:02:57: Analyzing "numpy.matrixlib.defmatrix"
+2017-08-29T18:02:57: Analyzing "numpy.matrixlib.setup"
+2017-08-29T18:02:57: Analyzing "numpy.matrixlib"
+2017-08-29T18:02:57: Analyzing "numpy.matrixlib.tests.test_defmatrix"
+2017-08-29T18:02:57: Analyzing "numpy.matrixlib.tests.test_multiarray"
+2017-08-29T18:02:57: Analyzing "numpy.matrixlib.tests.test_numeric"
+2017-08-29T18:02:57: Analyzing "numpy.matrixlib.tests.test_regression"
+2017-08-29T18:02:57: Analyzing "numpy.polynomial.chebyshev"
+2017-08-29T18:02:57: Analyzing "numpy.polynomial.hermite"
+2017-08-29T18:02:57: Analyzing "numpy.polynomial.hermite_e"
+2017-08-29T18:02:57: Analyzing "numpy.polynomial.laguerre"
+2017-08-29T18:02:57: Analyzing "numpy.polynomial.legendre"
+2017-08-29T18:02:57: Analyzing "numpy.polynomial.polynomial"
+2017-08-29T18:02:57: Analyzing "numpy.polynomial.polyutils"
+2017-08-29T18:02:57: Analyzing "numpy.polynomial.setup"
+2017-08-29T18:02:57: Analyzing "numpy.polynomial._polybase"
+2017-08-29T18:02:57: Analyzing "numpy.polynomial"
+2017-08-29T18:02:57: Analyzing "numpy.polynomial.tests.test_chebyshev"
+2017-08-29T18:02:57: Analyzing "numpy.polynomial.tests.test_classes"
+2017-08-29T18:02:57: Analyzing "numpy.polynomial.tests.test_hermite"
+2017-08-29T18:02:57: Analyzing "numpy.polynomial.tests.test_hermite_e"
+2017-08-29T18:02:57: Analyzing "numpy.polynomial.tests.test_laguerre"
+2017-08-29T18:02:57: Analyzing "numpy.polynomial.tests.test_legendre"
+2017-08-29T18:02:57: Analyzing "numpy.polynomial.tests.test_polynomial"
+2017-08-29T18:02:57: Analyzing "numpy.polynomial.tests.test_polyutils"
+2017-08-29T18:02:57: Analyzing "numpy.polynomial.tests.test_printing"
+2017-08-29T18:02:57: Analyzing "numpy.random.info"
+2017-08-29T18:02:57: Analyzing "numpy.random.setup"
+2017-08-29T18:02:57: Analyzing "numpy.random"
+2017-08-29T18:02:57: Analyzing "numpy.random.tests.test_random"
+2017-08-29T18:02:57: Analyzing "numpy.random.tests.test_regression"
+2017-08-29T18:02:57: Analyzing "numpy.testing.decorators"
+2017-08-29T18:02:57: Analyzing "numpy.testing.noseclasses"
+2017-08-29T18:02:57: Analyzing "numpy.testing.nosetester"
+2017-08-29T18:02:57: Analyzing "numpy.testing.print_coercion_tables"
+2017-08-29T18:02:57: Analyzing "numpy.testing.setup"
+2017-08-29T18:02:57: Analyzing "numpy.testing.utils"
+2017-08-29T18:02:57: Analyzing "numpy.testing"
+2017-08-29T18:02:57: Analyzing "numpy.testing.tests.test_decorators"
+2017-08-29T18:02:57: Analyzing "numpy.testing.tests.test_doctesting"
+2017-08-29T18:02:57: Analyzing "numpy.testing.tests.test_utils"
+2017-08-29T18:02:57: Analyzing "numpy.tests.test_ctypeslib"
+2017-08-29T18:02:57: Analyzing "numpy.tests.test_matlib"
+2017-08-29T18:02:57: Analyzing "numpy.tests.test_numpy_version"
+2017-08-29T18:02:57: Analyzing "numpy.tests.test_reloading"
+2017-08-29T18:02:57: Analyzing "numpy.tests.test_scripts"
+2017-08-29T18:02:57: Analyzing "numpy.tests.test_warnings"
+2017-08-29T18:02:57: Starting analysis of 311 modules
+2017-08-29T18:05:05: Analysis complete
+2017-08-29T18:05:05: Saving group "C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy"
+2017-08-29T18:05:35: End of group "C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\numpy"
+2017-08-29T18:05:41: Deleting 0 files
+
+2017-08-29T18:07:13: Start analysis
+2017-08-29T18:07:13: [WARNING] Library was set explicitly - skipping path detection
+2017-08-29T18:07:13: IncludeModulesFromModulePath = win32com
+2017-08-29T18:07:14: Deleting 0 files
+2017-08-29T18:07:15: astropy.CallDepth = 0
+2017-08-29T18:07:15: matplotlib.CallDepth = 3
+2017-08-29T18:07:15: pandas.CallDepth = 0
+2017-08-29T18:07:15: sympy.CallDepth = 0
+2017-08-29T18:07:15: Start group "C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\opencv" with 2 files
+2017-08-29T18:07:15: Parsing "opencv.opencv_test" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\opencv\opencv_test.py")
+2017-08-29T18:07:15: Parsing "opencv" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\opencv\__init__.py")
+2017-08-29T18:07:15: Parsing complete
+2017-08-29T18:07:15: Analyzing "opencv.opencv_test"
+2017-08-29T18:07:15: Analyzing "opencv"
+2017-08-29T18:07:15: Starting analysis of 2 modules
+2017-08-29T18:07:15: Analysis complete
+2017-08-29T18:07:15: Saving group "C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\opencv"
+2017-08-29T18:07:17: End of group "C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\opencv"
+2017-08-29T18:07:18: Deleting 0 files
+
+2017-08-29T18:09:10: Start analysis
+2017-08-29T18:09:10: [WARNING] Library was set explicitly - skipping path detection
+2017-08-29T18:09:10: IncludeModulesFromModulePath = win32com
+2017-08-29T18:09:13: Deleting 0 files
+2017-08-29T18:09:13: Scraping cv2.cv2
+2017-08-29T18:09:13: Command: C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape cv2.cv2 C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\.ptvs\cv2\cv2.cv2
+2017-08-29T18:09:17: Scraped 1 files
+2017-08-29T18:09:17: astropy.CallDepth = 0
+2017-08-29T18:09:17: matplotlib.CallDepth = 3
+2017-08-29T18:09:17: pandas.CallDepth = 0
+2017-08-29T18:09:17: sympy.CallDepth = 0
+2017-08-29T18:09:17: Start group "C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\cv2" with 1 files
+2017-08-29T18:09:18: Parsing "cv2" ("C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\cv2\__init__.py")
+2017-08-29T18:09:18: Parsing complete
+2017-08-29T18:09:18: Analyzing "cv2"
+2017-08-29T18:09:18: Starting analysis of 1 modules
+2017-08-29T18:09:21: Analysis complete
+2017-08-29T18:09:21: Saving group "C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\cv2"
+2017-08-29T18:09:21: End of group "C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\Lib\site-packages\cv2"
+2017-08-29T18:09:22: Deleting 2 files
+2017-08-29T18:09:22: Deleting "C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\.ptvs\opencv\opencv.idb"
+2017-08-29T18:09:22: Deleting "C:\Users\muro\Source\Repos\DjangoPOC\DjangoPOC\DjangoPOC\env_FirstDjango\.ptvs\opencv\opencv.opencv_test.idb"

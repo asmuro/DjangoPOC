@@ -6,9 +6,17 @@
     <title></title>
 </head>
 <body>
-    <form action="/loading/" method="post" enctype="multipart/form-data">{% csrf_token %}
+    <form action="/loading/" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
         Select images: <input type="file" name="image" multiple>
         <input type="submit" value="Submit">
     </form>
+
+    {% if error_info %}
+
+    <p>Error: {{error_info}}</p>
+
+    {% endif %}
+    
 </body>
 </html>
